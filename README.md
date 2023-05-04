@@ -1,7 +1,7 @@
 ## _Undergraduate Thesis_
 
 # Mangrove  Blue Carbon Reserve Estimation Model base on Machine Learning and Potential Loss of Emissions Absorption in the Region Musi River Delta Coast, South Sumatra
-**Rahmat Asy'Ari**, 
+**`Rahmat Asy'Ari`**
 <br /> _Department of Forest Management, Faculty of Forest and Environment, IPB University_
 <br /> _SSRS RO1 Forest Research Group, IPB Sustainable Science Research Students Association (IPB SSRS Association), IPB University_
 
@@ -22,7 +22,7 @@ hhhh...............
 ### References
 .....
 ________________________________________________________________________________________________________________________________________________________
-**Rahmat Asy'Ari**
+**`Rahmat Asy'Ari`**
 <br /> _Department of Forest Management, Faculty of Forest and Environment, IPB University_
 <br /> _SSRS RO1 Forest Research Group, IPB Sustainable Science Research Students Association (IPB SSRS Association), IPB University_
 <br /> asyarihutan92gmail.com   rahmatasyariasyari@apps.ipb.ac.id
