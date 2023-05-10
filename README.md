@@ -12,11 +12,20 @@ hhhh...
 ## Methodology 
 hhhh....
 
+![logo](https://github.com/arihutan/Undergraduate-Thesis/blob/44cdb964d8027ff21c3192d539fcf3a9f2f685d7/BAHAN/Diagram%20alir%20utama_putih.png)
+<p align="center"> Gambar 1. Diagram alir penelitian
+  </p>
+  
+![logo](https://github.com/arihutan/Undergraduate-Thesis/blob/1ef95c880561ccbef7acfcda9486de53b1b1aaf6/BAHAN/Distribusi%20plot%20%2B%20ANveg_Fiks_latbelPutih.png)
+<p align="center"> Gambar 2. Desain plot penelitian
+  </p>
+
+
 ## Hypothesis
 hhhh...............
 
 ![logo](https://github.com/arihutan/Undergraduate-Thesis/blob/7a33b6f843070e0848ea94c86c86dba33806ffc9/BAHAN/Kerusakan%20MGV.png)
-<p align="center"> Gambar 2. Kerusakan vegetasi dari tahun 1989 dan 2022
+<p align="center"> Gambar 3. Kerusakan vegetasi dari tahun 1989 dan 2022
   </p>
   
 ### References
