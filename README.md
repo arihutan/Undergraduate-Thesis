@@ -9,15 +9,13 @@
 ## Research Overview 
 hhhh...
 
-## Introduction
-hhhh....
-
 ## Methodology 
 hhhh....
 
 ## Hypothesis
 hhhh...............
 
+![logo](https://github.com/arihutan/Undergraduate-Thesis/blob/7a33b6f843070e0848ea94c86c86dba33806ffc9/BAHAN/Kerusakan%20MGV.png)
 
 ### References
 .....
