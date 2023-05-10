@@ -16,7 +16,9 @@ hhhh....
 hhhh...............
 
 ![logo](https://github.com/arihutan/Undergraduate-Thesis/blob/7a33b6f843070e0848ea94c86c86dba33806ffc9/BAHAN/Kerusakan%20MGV.png)
-
+<p align="center"> Gambar 2. Kerusakan vegetasi dari tahun 1989 dan 2022
+  </p>
+  
 ### References
 .....
 ________________________________________________________________________________________________________________________________________________________
