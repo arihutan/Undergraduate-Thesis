@@ -30,6 +30,35 @@ hhhh...............
   
 ### References
 .....
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">
+<p>
+<a href="https://ugjssbc/sfugfbjs/"><img src=".....png"/></a>
+</p>
+<p>
+<a href=""https://ugjssbc/sfugfbjs/">Cheat
+Sheet</a>
+</p>
+</td>
+<td style="text-align: center;">
+<p>
+<a href=""https://ugjssbc/sfugfbjs/"><img src=".....png" /></a>
+</p>
+<p>
+<a href=""https://ugjssbc/sfugfbjs/">Website</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 ________________________________________________________________________________________________________________________________________________________
 **`Rahmat Asy'Ari`**
 <br /> _Department of Forest Management, Faculty of Forest and Environment, IPB University_
